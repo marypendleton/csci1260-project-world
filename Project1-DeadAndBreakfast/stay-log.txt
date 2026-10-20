@@ -1,0 +1,5 @@
+=== DEAD & BREAKFAST LOG ===
+Guest loading completed.
+Guests checked in: 5
+About to test an intentional error.
+=== LOG COMPLETE ===

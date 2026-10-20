@@ -1,0 +1,6 @@
+﻿Ghost|G01|Edith|120
+Vampire|V01|Dracula|300
+Zombie|Z01|Frankie|25
+Ghost|G02|Boo|-5
+BlackCat|C01|Salem
+Hellhound|H01|Biscuit
